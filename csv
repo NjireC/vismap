@@ -1,32 +1,32 @@
-name,pop
-Arusha,	83039
-Dar es salaam,	3285419
-Dodoma,	8352021
-Geita	,3153731
-Iringa,	3017661
-Kagera,	12000
-Katavi,	10000
-Kigoma,	976785
-Kilimanjaro,	4699878
-Lindi,	278952
-Manyara,	10380
-Mara,	4876938
-Mbeya,	76901
-Morogoro,	12687
-Mtwara,	45970
-Mwanza,	327410
-Njombe,	925648
-Pemba North,	4422110
-Pemba South,	53049
-Pwani,	7895623
-Rukwa,	21483579
-Ruvuma,	2458762
-Shinyanga,	1479580
-Simiyu,	200034
-Singida,	80234700
-Tabora,	4009879
-Tanga,	3004008
-Zanzibar North,	987568
-Zanzibar Soutn and Central,	2233550
-Zanzibar West,	986034
+name,code,pop
+Arusha,AR,	83039
+Dar es salaam,DAR,	3285419
+Dodoma,DOM,	8352021
+Geita,GE,3153731
+Iringa,IR,	3017661
+Kagera,KAG,	12000
+Katavi,KAT,	10000
+Kigoma,KIG,	976785
+Kilimanjaro,KLM,	4699878
+Lindi,LIN,	278952
+Manyara,MAN,	10380
+Mara,MAR,	4876938
+Mbeya,MBY,	76901
+Morogoro,MOR,	12687
+Mtwara,MTW,	45970
+Mwanza,MWZ,	327410
+Njombe,NJM,	925648
+Pemba North,PN,	4422110
+Pemba South,PS,	53049
+Pwani,PWN,	7895623
+Rukwa,RUK,	21483579
+Ruvuma,RUV,	2458762
+Shinyanga,SHY,	1479580
+Simiyu,SIM,	200034
+Singida,SIN,	80234700
+Tabora,TAB,	4009879
+Tanga,TNG,	3004008
+Zanzibar North,ZN,	987568
+Zanzibar SoutH and Central,ZSC,	2233550
+Zanzibar West,ZW,	986034
 
