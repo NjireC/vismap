@@ -1,0 +1,877 @@
+[
+  {
+    "District_C": 1,
+    "District_N": "Bagamoyo",
+    "Population": 5000
+  },
+  {
+    "District_C": 1,
+    "District_N": "Bariadi",
+    "Population": 3455
+  },
+  {
+    "District_C": 1,
+    "District_N": "Chunya",
+    "Population": 13412
+  },
+  {
+    "District_C": 1,
+    "District_N": "Geita",
+    "Population": 83039
+  },
+  {
+    "District_C": 1,
+    "District_N": "Iramba",
+    "Population": 3285419
+  },
+  {
+    "District_C": 1,
+    "District_N": "Iringa",
+    "Population": 8352021
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kalambo",
+    "Population": 3153731
+  },
+  {
+    "District_C": 1,
+    "District_N": "Karagwe",
+    "Population": 3017661
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kibondo",
+    "Population": 12000
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kilwa",
+    "Population": 10000
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kinondoni",
+    "Population": 976785
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kondoa",
+    "Population": 4699878
+  },
+  {
+    "District_C": 1,
+    "District_N": "Lushoto",
+    "Population": 8399
+  },
+  {
+    "District_C": 1,
+    "District_N": "Monduli",
+    "Population": 8942
+  },
+  {
+    "District_C": 1,
+    "District_N": "Mtwara",
+    "Population": 54894
+  },
+  {
+    "District_C": 1,
+    "District_N": "Njombe Urban",
+    "Population": 1247
+  },
+  {
+    "District_C": 1,
+    "District_N": "Nzega",
+    "Population": 1236
+  },
+  {
+    "District_C": 1,
+    "District_N": "Rombo",
+    "Population": 15497
+  },
+  {
+    "District_C": 1,
+    "District_N": "Shinyanga Urban",
+    "Population": 5878954
+  },
+  {
+    "District_C": 1,
+    "District_N": "Tarime",
+    "Population": 248979
+  },
+  {
+    "District_C": 1,
+    "District_N": "Tunduru",
+    "Population": 29841
+  },
+  {
+    "District_C": 1,
+    "District_N": "Ukerewe",
+    "Population": 20128
+  },
+  {
+    "District_C": 2,
+    "District_N": "Bukoba",
+    "Population": 8799
+  },
+  {
+    "District_C": 2,
+    "District_N": "Igunga",
+    "Population": 65984
+  },
+  {
+    "District_C": 2,
+    "District_N": "Ilala",
+    "Population": 4998
+  },
+  {
+    "District_C": 2,
+    "District_N": "Itilima",
+    "Population": 97974
+  },
+  {
+    "District_C": 2,
+    "District_N": "Kasulu",
+    "Population": 4515
+  },
+  {
+    "District_C": 2,
+    "District_N": "Kibaha",
+    "Population": 54878
+  },
+  {
+    "District_C": 2,
+    "District_N": "Kishapu",
+    "Population": 845187
+  },
+  {
+    "District_C": 2,
+    "District_N": "Korogwe",
+    "Population": 84187
+  },
+  {
+    "District_C": 2,
+    "District_N": "Lindi",
+    "Population": 81515
+  },
+  {
+    "District_C": 2,
+    "District_N": "Magu",
+    "Population": 78634
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mbeya",
+    "Population": 16548
+  },
+  {
+    "District_C": 2,
+    "District_N": "Meru",
+    "Population": 321984
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mpwapwa",
+    "Population": 3189
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mufindi",
+    "Population": 64863
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mwanga",
+    "Population": 54800
+  },
+  {
+    "District_C": 2,
+    "District_N": "Newala",
+    "Population": 798741
+  },
+  {
+    "District_C": 2,
+    "District_N": "Nyang'hwale",
+    "Population": 1269
+  },
+  {
+    "District_C": 2,
+    "District_N": "Serengeti",
+    "Population": 248
+  },
+  {
+    "District_C": 2,
+    "District_N": "Singida",
+    "Population": 21034
+  },
+  {
+    "District_C": 2,
+    "District_N": "Songea",
+    "Population": 515549
+  },
+  {
+    "District_C": 2,
+    "District_N": "Sumbawanga",
+    "Population": 12011
+  },
+  {
+    "District_C": 2,
+    "District_N": "Wanging'ombe",
+    "Population": 18498
+  },
+  {
+    "District_C": 3,
+    "District_N": "Arusha Urban",
+    "Population": 54984
+  },
+  {
+    "District_C": 3,
+    "District_N": "Iringa Urban",
+    "Population": 5485
+  },
+  {
+    "District_C": 3,
+    "District_N": "Kigoma",
+    "Population": 20253
+  },
+  {
+    "District_C": 3,
+    "District_N": "Kisarawe",
+    "Population": 5888
+  },
+  {
+    "District_C": 3,
+    "District_N": "Kongwa",
+    "Population": 3984
+  },
+  {
+    "District_C": 3,
+    "District_N": "Kyela",
+    "Population": 6648
+  },
+  {
+    "District_C": 3,
+    "District_N": "Makete",
+    "Population": 15469
+  },
+  {
+    "District_C": 3,
+    "District_N": "Manyoni",
+    "Population": 2844
+  },
+  {
+    "District_C": 3,
+    "District_N": "Masasi",
+    "Population": 4484
+  },
+  {
+    "District_C": 3,
+    "District_N": "Mbinga",
+    "Population": 549846
+  },
+  {
+    "District_C": 3,
+    "District_N": "Mbogwe",
+    "Population": 18798
+  },
+  {
+    "District_C": 3,
+    "District_N": "Meatu",
+    "Population": 21878
+  },
+  {
+    "District_C": 3,
+    "District_N": "Muheza",
+    "Population": 5487845
+  },
+  {
+    "District_C": 3,
+    "District_N": "Muleba",
+    "Population": 484118
+  },
+  {
+    "District_C": 3,
+    "District_N": "Musoma",
+    "Population": 54815
+  },
+  {
+    "District_C": 3,
+    "District_N": "Nachingwea",
+    "Population": 48761
+  },
+  {
+    "District_C": 3,
+    "District_N": "Nkasi",
+    "Population": 548
+  },
+  {
+    "District_C": 3,
+    "District_N": "Nyamagana",
+    "Population": 8849
+  },
+  {
+    "District_C": 3,
+    "District_N": "Same",
+    "Population": 548451
+  },
+  {
+    "District_C": 3,
+    "District_N": "Shinyanga",
+    "Population": 5848
+  },
+  {
+    "District_C": 3,
+    "District_N": "Temeke",
+    "Population": 581218
+  },
+  {
+    "District_C": 3,
+    "District_N": "Uyui",
+    "Population": 8415
+  },
+  {
+    "District_C": 4,
+    "District_N": "Biharamulo",
+    "Population": 84815
+  },
+  {
+    "District_C": 4,
+    "District_N": "Bukombe",
+    "Population": 24863
+  },
+  {
+    "District_C": 4,
+    "District_N": "Bunda",
+    "Population": 5255
+  },
+  {
+    "District_C": 4,
+    "District_N": "Chamwino",
+    "Population": 2844
+  },
+  {
+    "District_C": 4,
+    "District_N": "Kahama",
+    "Population": 4484
+  },
+  {
+    "District_C": 4,
+    "District_N": "Karatu",
+    "Population": 549846
+  },
+  {
+    "District_C": 4,
+    "District_N": "Kilolo",
+    "Population": 18798
+  },
+  {
+    "District_C": 4,
+    "District_N": "Kwimba",
+    "Population": 21878
+  },
+  {
+    "District_C": 4,
+    "District_N": "Liwale",
+    "Population": 5487845
+  },
+  {
+    "District_C": 4,
+    "District_N": "Maswa",
+    "Population": 484118
+  },
+  {
+    "District_C": 4,
+    "District_N": "Mkuranga",
+    "Population": 54815
+  },
+  {
+    "District_C": 4,
+    "District_N": "Moshi",
+    "Population": 48761
+  },
+  {
+    "District_C": 4,
+    "District_N": "Njombe",
+    "Population": 548
+  },
+  {
+    "District_C": 4,
+    "District_N": "Rungwe",
+    "Population": 8849
+  },
+  {
+    "District_C": 4,
+    "District_N": "Singida Urban",
+    "Population": 548451
+  },
+  {
+    "District_C": 4,
+    "District_N": "Songea Urban",
+    "Population": 5848
+  },
+  {
+    "District_C": 4,
+    "District_N": "Sumbawanga Urban",
+    "Population": 581218
+  },
+  {
+    "District_C": 4,
+    "District_N": "Tandahimba",
+    "Population": 8415
+  },
+  {
+    "District_C": 4,
+    "District_N": "Tanga Urban",
+    "Population": 84815
+  },
+  {
+    "District_C": 4,
+    "District_N": "Ulanga",
+    "Population": 24863
+  },
+  {
+    "District_C": 4,
+    "District_N": "Urambo",
+    "Population": 5255
+  },
+  {
+    "District_C": 5,
+    "District_N": "Busega",
+    "Population": 65984
+  },
+  {
+    "District_C": 5,
+    "District_N": "Chato",
+    "Population": 4998
+  },
+  {
+    "District_C": 5,
+    "District_N": "Dodoma Urban",
+    "Population": 97974
+  },
+  {
+    "District_C": 5,
+    "District_N": "Hai",
+    "Population": 4515
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ikungi",
+    "Population": 54878
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ileje",
+    "Population": 845187
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ludewa",
+    "Population": 84187
+  },
+  {
+    "District_C": 5,
+    "District_N": "Mafinga Township Authority",
+    "Population": 81515
+  },
+  {
+    "District_C": 5,
+    "District_N": "Kahama Township Authority",
+    "Population": 78634
+  },
+  {
+    "District_C": 5,
+    "District_N": "Morogoro Urban",
+    "Population": 16548
+  },
+  {
+    "District_C": 5,
+    "District_N": "Mtwara Urban",
+    "Population": 321984
+  },
+  {
+    "District_C": 5,
+    "District_N": "Musoma Urban",
+    "Population": 3189
+  },
+  {
+    "District_C": 5,
+    "District_N": "Namtumbo",
+    "Population": 64863
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ngara",
+    "Population": 54800
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ngorongoro",
+    "Population": 798741
+  },
+  {
+    "District_C": 5,
+    "District_N": "Ruangwa",
+    "Population": 1269
+  },
+  {
+    "District_C": 5,
+    "District_N": "Rufiji",
+    "Population": 248
+  },
+  {
+    "District_C": 5,
+    "District_N": "Sengerema",
+    "Population": 21034
+  },
+  {
+    "District_C": 5,
+    "District_N": "Sikonge",
+    "Population": 515549
+  },
+  {
+    "District_C": 5,
+    "District_N": "Uvinza",
+    "Population": 12011
+  },
+  {
+    "District_C": 6,
+    "District_N": "Arusha",
+    "Population": 18498
+  },
+  {
+    "District_C": 6,
+    "District_N": "Bahi",
+    "Population": 54984
+  },
+  {
+    "District_C": 6,
+    "District_N": "Buhigwe",
+    "Population": 5485
+  },
+  {
+    "District_C": 6,
+    "District_N": "Bukoba Urban",
+    "Population": 20253
+  },
+  {
+    "District_C": 6,
+    "District_N": "Handeni",
+    "Population": 5888
+  },
+  {
+    "District_C": 6,
+    "District_N": "Ilemela",
+    "Population": 65984
+  },
+  {
+    "District_C": 6,
+    "District_N": "Lindi Urban",
+    "Population": 4998
+  },
+  {
+    "District_C": 6,
+    "District_N": "Mafia",
+    "Population": 97974
+  },
+  {
+    "District_C": 6,
+    "District_N": "Makambako Township Authority",
+    "Population": 4515
+  },
+  {
+    "District_C": 6,
+    "District_N": "Mbozi",
+    "Population": 54878
+  },
+  {
+    "District_C": 6,
+    "District_N": "Mkalama",
+    "Population": 845187
+  },
+  {
+    "District_C": 6,
+    "District_N": "Moshi Urban",
+    "Population": 84187
+  },
+  {
+    "District_C": 6,
+    "District_N": "Mvomero",
+    "Population": 81515
+  },
+  {
+    "District_C": 6,
+    "District_N": "Nanyumbu",
+    "Population": 78634
+  },
+  {
+    "District_C": 6,
+    "District_N": "Nyasa",
+    "Population": 16548
+  },
+  {
+    "District_C": 6,
+    "District_N": "Rorya",
+    "Population": 321984
+  },
+  {
+    "District_C": 6,
+    "District_N": "Tabora Urban",
+    "Population": 3189
+  },
+  {
+    "District_C": 7,
+    "District_N": "Butiam",
+    "Population": 64863
+  },
+  {
+    "District_C": 7,
+    "District_N": "Chemba",
+    "Population": 54800
+  },
+  {
+    "District_C": 7,
+    "District_N": "Kakonko",
+    "Population": 798741
+  },
+  {
+    "District_C": 7,
+    "District_N": "Kaliua",
+    "Population": 1269
+  },
+  {
+    "District_C": 7,
+    "District_N": "Kibaha Urban",
+    "Population": 248
+  },
+  {
+    "District_C": 7,
+    "District_N": "Kilindi",
+    "Population": 21034
+  },
+  {
+    "District_C": 7,
+    "District_N": "Longido",
+    "Population": 515549
+  },
+  {
+    "District_C": 7,
+    "District_N": "Masasi  Township Authority",
+    "Population": 12011
+  },
+  {
+    "District_C": 7,
+    "District_N": "Mbarali",
+    "Population": 18498
+  },
+  {
+    "District_C": 7,
+    "District_N": "Missenyi",
+    "Population": 54984
+  },
+  {
+    "District_C": 7,
+    "District_N": "Misungwi",
+    "Population": 5485
+  },
+  {
+    "District_C": 7,
+    "District_N": "Siha",
+    "Population": 20253
+  },
+  {
+    "District_C": 8,
+    "District_N": "Mkinga",
+    "Population": 5888
+  },
+  {
+    "District_C": 8,
+    "District_N": "Kasulu Township Authority",
+    "Population": 5000
+  },
+  {
+    "District_C": 8,
+    "District_N": "Kyerwa",
+    "Population": 3455
+  },
+  {
+    "District_C": 8,
+    "District_N": "Mbeya Urban",
+    "Population": 13412
+  },
+  {
+    "District_C": 9,
+    "District_N": "Korogwe Township Authority",
+    "Population": 83039
+  },
+  {
+    "District_C": 9,
+    "District_N": "Momba",
+    "Population": 3285419
+  },
+  {
+    "District_C": 10,
+    "District_N": "Handeni Mji",
+    "Population": 8352021
+  },
+  {
+    "District_C": 10,
+    "District_N": "Tunduma",
+    "Population": 3153731
+  },
+  {
+    "District_C": 4,
+    "District_N": "Kigoma  Urban",
+    "Population": 3017661
+  },
+  {
+    "District_C": 2,
+    "District_N": "Morogoro",
+    "Population": 12000
+  },
+  {
+    "District_C": 3,
+    "District_N": "Kilombero",
+    "Population": 10000
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kilosa",
+    "Population": 21034
+  },
+  {
+    "District_C": 7,
+    "District_N": "Gairo",
+    "Population": 515549
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mpanda",
+    "Population": 12011
+  },
+  {
+    "District_C": 3,
+    "District_N": "Mlele",
+    "Population": 18498
+  },
+  {
+    "District_C": 1,
+    "District_N": "Mpanda Urban",
+    "Population": 54984
+  },
+  {
+    "District_C": 5,
+    "District_N": "Pangani",
+    "Population": 5485
+  },
+  {
+    "District_C": 1,
+    "District_N": "Babati",
+    "Population": 20253
+  },
+  {
+    "District_C": 2,
+    "District_N": "Hanang",
+    "Population": 5888
+  },
+  {
+    "District_C": 3,
+    "District_N": "Mbulu",
+    "Population": 65984
+  },
+  {
+    "District_C": 4,
+    "District_N": "Simanjiro",
+    "Population": 4998
+  },
+  {
+    "District_C": 5,
+    "District_N": "Kiteto",
+    "Population": 97974
+  },
+  {
+    "District_C": 6,
+    "District_N": "Babati Urban",
+    "Population": 4515
+  },
+  {
+    "District_C": 1,
+    "District_N": "Chake Chake",
+    "Population": 54878
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kaskazini A",
+    "Population": 845187
+  },
+  {
+    "District_C": 1,
+    "District_N": "Kati",
+    "Population": 84187
+  },
+  {
+    "District_C": 1,
+    "District_N": "Magharibi",
+    "Population": 81515
+  },
+  {
+    "District_C": 1,
+    "District_N": "Wete",
+    "Population": 78634
+  },
+  {
+    "District_C": 2,
+    "District_N": "Kaskazini B",
+    "Population": 16548
+  },
+  {
+    "District_C": 2,
+    "District_N": "Kusini",
+    "Population": 321984
+  },
+  {
+    "District_C": 2,
+    "District_N": "Micheweni",
+    "Population": 3189
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mjini",
+    "Population": 64863
+  },
+  {
+    "District_C": 2,
+    "District_N": "Mkoani",
+    "Population": 54800
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  },
+  {
+    "District_C": "",
+    "District_N": "",
+    "Population": ""
+  }
+]
